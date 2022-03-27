@@ -1,8 +1,8 @@
 {
-    "name": "Telegram Video Player Bot",
-    "description": "An Telegram Bot By @TheNavya To Stream Videos in Voice Chat",
-    "repository": "https://github.com/Navya-Developer/VideoPlayerBot",
-    "logo": "https://telegra.ph/file/d49ba007be76ed2566d85.jpg",
+    "name": "Nobita Video Player Bot",
+    "description": "An Telegram Bot By @Nobi_xxd To Stream Videos in Voice Chat",
+    "repository": "https://github.com/NOBITAXDD/NOBITA_VIDEO_BOT",
+    "logo": "https://te.legra.ph/file/5f35910bf95eccee65943.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
