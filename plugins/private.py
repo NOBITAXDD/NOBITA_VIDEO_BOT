@@ -33,7 +33,7 @@ async def start(client, message):
             ],
             [
                 InlineKeyboardButton("📢 CHANNEL", url=f"https://t.me/{UPDATES_CHANNEL}"),
-                InlineKeyboardButton("SOURCE 📦", url=f"https://github.com/Navya-Developer/VideoPlayerBot"),
+                InlineKeyboardButton("SOURCE 📦", url=f"https://te.legra.ph/file/50a3a42a888d21ca5dddb.jpg"),
             ],
             [
                 InlineKeyboardButton("🤖 ABOUT", callback_data="about"),
@@ -93,7 +93,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],
             [
                 InlineKeyboardButton("📢 CHANNEL", url=f"https://t.me/{UPDATES_CHANNEL}"),
-                InlineKeyboardButton("SOURCE 📦", url=f"https://github.com/Navya-developer/VideoPlayerBot"),
+                InlineKeyboardButton("SOURCE 📦", url=f"https://te.legra.ph/file/50a3a42a888d21ca5dddb.jpg"),
             ],
             [
                 InlineKeyboardButton("🤖 ABOUT", callback_data="about"),
