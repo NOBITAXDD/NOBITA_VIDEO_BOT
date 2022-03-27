@@ -26,11 +26,11 @@ from youtubesearchpython import VideosSearch
 
 buttons = [
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/TheNavya"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/NavyaSupport"),
+                InlineKeyboardButton("CHANNEL", url="https://t.me/AAPLI_YAARI"),
+                InlineKeyboardButton("SUPPORT", url="https://t.me/AAPLI_YAARI"),
             ],
             [
-                InlineKeyboardButton("🤖 MAKE YOUR OWN BOT 🤖", url="https://heroku.com/deploy?template=https://github.com/Navya-Developer/VideoPlayerBot"),
+                InlineKeyboardButton("ᴍʏ ᴏᴡɴᴇʀ ᴄᴏɴᴛᴀᴄᴛ✌️", url="https://t.me/Nobi_xxd"),
             ]
          ]
 
@@ -41,7 +41,7 @@ async def search(client, query):
         answers.append(
             InlineQueryResultArticle(
                 title="Deploy Own Video Player Bot",
-                input_message_content=InputTextMessageContent(f"{REPLY_MESSAGE}\n\n<b>© Powered By : \n@TheNavya | @NavyaSupport 👑</b>", disable_web_page_preview=True),
+                input_message_content=InputTextMessageContent(f"{REPLY_MESSAGE}\n\n<b>© Powered By : \n@Nobi_xxd | @AAPLI_YAARI✌️</b>", disable_web_page_preview=True),
                 reply_markup=InlineKeyboardMarkup(buttons)
                 )
             )
